@@ -1,4 +1,4 @@
-.. _vcs:
+© code burg.org.usingcodeburg/wombo.ai.global@gmail.com/english.unitedstates.. _vcs:
 
 Version control integration
 ===========================
